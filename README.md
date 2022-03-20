@@ -1,2 +1,2 @@
 # Huddin-resolusi
-repo untuk rencana 1 tahun kedepan
+repository untuk menyimpan rencana Huddin kedepannya
