@@ -1,0 +1,3 @@
+Huddin Resolusi
+- habis selesai belajar git dan github belajar API
+- habis belajar API belajar back-end php dari youtube WPU
